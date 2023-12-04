@@ -1,0 +1,23 @@
+C:\Users\Иван Александрович\source\repos\TableRedactor\bin\Debug\TableRedactor.exe.config
+C:\Users\Иван Александрович\source\repos\TableRedactor\bin\Debug\TableRedactor.exe
+C:\Users\Иван Александрович\source\repos\TableRedactor\bin\Debug\TableRedactor.pdb
+C:\Users\Иван Александрович\source\repos\TableRedactor\obj\Debug\TableRedactor.csproj.AssemblyReference.cache
+C:\Users\Иван Александрович\source\repos\TableRedactor\obj\Debug\TableRedactor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Иван Александрович\source\repos\TableRedactor\obj\Debug\TableRedactor.Properties.Resources.resources
+C:\Users\Иван Александрович\source\repos\TableRedactor\obj\Debug\TableRedactor.csproj.GenerateResource.cache
+C:\Users\Иван Александрович\source\repos\TableRedactor\obj\Debug\TableRedactor.csproj.CoreCompileInputs.cache
+C:\Users\Иван Александрович\source\repos\TableRedactor\obj\Debug\TableRedactor.exe
+C:\Users\Иван Александрович\source\repos\TableRedactor\obj\Debug\TableRedactor.pdb
+C:\Users\Иван Александрович\source\repos\TableRedactor\obj\Debug\TableRedactor.csproj.ResolveComReference.cache
+C:\Users\Иван Александрович\source\repos\TableRedactor\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Иван Александрович\source\repos\TableRedactor\bin\Debug\ExcelDataReader.dll
+C:\Users\Иван Александрович\source\repos\TableRedactor\bin\Debug\ExcelDataReader.pdb
+C:\Users\Иван Александрович\source\repos\TableRedactor\bin\Debug\ExcelDataReader.xml
+C:\Users\Иван Александрович\source\repos\TableRedactor\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Иван Александрович\source\repos\TableRedactor\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Иван Александрович\source\repos\TableRedactor\obj\Debug\TableRedactor.csproj.CopyComplete
+C:\Users\Иван Александрович\source\repos\TableRedactor\obj\Debug\TableRedactor.AuthorizationForm.resources
+C:\Users\Иван Александрович\source\repos\TableRedactor\obj\Debug\TableRedactor.UserForm.resources
+C:\Users\ilruz\source\repos\TableRedactor\obj\Debug\TableRedactor.csproj.AssemblyReference.cache
+C:\Users\ilruz\source\repos\TableRedactor\obj\Debug\TableRedactor.exe
+C:\Users\ilruz\source\repos\TableRedactor\obj\Debug\TableRedactor.pdb
